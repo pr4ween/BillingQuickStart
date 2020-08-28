@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Billing QS Customization</fullName>
+    <types>
+        <members>blng__UsageSummary__c.Auto_number__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Legal_Entity_In_Order_Product_Autofill</members>
+        <members>Order_Invoice_Batch_Update</members>
+        <members>Usage_Summary_Matching_ID_autofill</members>
+        <name>Flow</name>
+    </types>
+    <version>49.0</version>
+</Package>
