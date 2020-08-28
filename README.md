@@ -5,7 +5,7 @@
 
 # Billing ORG Quick Setup
 
-1. Install CPQ and Billing Package
+1. [Install](https://help.salesforce.com/articleView?id=blng_install_billing_package.htm&type=5) CPQ and Billing Package
 2. Installed Packages > Billing > Insert Sample Data
 3. Deploy Package from GIT
 4. Load Data in the Data folder
