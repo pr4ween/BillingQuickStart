@@ -3,6 +3,14 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
+# Billing ORG Quick Setup
+
+1. Install CPQ and Billing Package
+2. Installed Packages > Billing > Insert Sample Data
+3. Deploy Package from GIT
+4. Load Data in the Data folder
+
+
 # Salesforce App
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
